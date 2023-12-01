@@ -14,7 +14,7 @@ body {
   border: 1px solid #ccc;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background-color: white; /* لون خلفية النموذج */
+  background-color: #8f0808; /* لون خلفية النموذج */
 }
 
 form {
