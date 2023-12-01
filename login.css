@@ -5,7 +5,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: #ff3333; /* لون الخلفية */
+  background-color: #000001; /* لون الخلفية */
 }
 
 .login-container {
@@ -34,7 +34,7 @@ input {
 }
 
 button {
-  background-color: #ff3333; /* لون زر الدخول */
+  background-color: #8f0808; /* لون زر الدخول */
   color: white;
   padding: 10px;
   border: none;
@@ -43,5 +43,5 @@ button {
 }
 
 button:hover {
-  background-color: #cc0000; /* لون زر الدخول عند التحويم */
+  background-color: #8f0808; /* لون زر الدخول عند التحويم */
 }
